@@ -1,0 +1,29 @@
+body {
+text-align: center;
+background: linear-gradient(-70deg, #fa7c30 30%, rgba(0, 0, 0, 0) 30%), url('planets.jpg');
+}
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 60px;
+}
+h2 {
+    font-family: 'Raleway', sans-serif;
+}
+#quote {
+    font-style: italic;
+    font-size: 15px;
+}
+p {
+    color: green;
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+}
+
+#image {
+    height: 500px;
+}
+
+a {
+
+    color: green;
+}

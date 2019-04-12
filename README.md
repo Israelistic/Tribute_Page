@@ -1,3 +1,3 @@
 # Tribute_Page
 
-This repo got created for the Responsive Web Design Projects - Build a Tribute Pagee
+I created this repo for the "Responsive Web Design Projects" for [Freecodecamp.org](https://freecodecamp.org).  
